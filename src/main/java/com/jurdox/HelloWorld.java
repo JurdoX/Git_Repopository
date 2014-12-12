@@ -2,6 +2,11 @@ package com.jurdox;
 
 import java.io.Serializable;
 
+/**
+ * POJO class
+ * @author JurdoX
+ *
+ */
 public class HelloWorld implements Serializable {
 
 	private static final long serialVersionUID = 1L;
